@@ -1,4 +1,4 @@
-To run this project, you need to create a react app first.
+To run this project, you need to create a react app first, using  `npx create-react-app my-app`
 And then replace the src folder inside with the one in the repository.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
