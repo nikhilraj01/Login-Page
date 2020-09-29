@@ -18,7 +18,7 @@ export default function Login() {
       <div className="login-container">
         <div className="login-header">
           <img
-            src="https://i.pinimg.com/originals/7d/aa/d5/7daad52d070f2e222d7096bb2c897b46.png"
+            src="https://www.mockuptiger.com/wp-content/uploads/2018/03/image-665.jpg"
             alt="website logo"
           ></img>
           <p>*Website Name*</p>
